@@ -3,7 +3,7 @@
 
 BotSharp is an open source machine learning framework for AI Bot platform builder. This project involves natural language understanding and audio processing technologies, and aims to promote the development and application of intelligent robot assistants in information systems. Out of the box machine learning algorithms allow ordinary programmers to develop artificial intelligence applications faster and easier.
 
-BotSharp is an high compatible and high scalable platform builder. It is in accordance with components princple strictly, decouples every part that needed in the platform builder. So you can choose different UI/UX, or pick up a different NLP Tagger, or select a more advanced algrithm to do NER task. They are all modulized based on unfied interfaces. 
+BotSharp is an high compatible and high scalable platform builder. It is in accordance with components principle strictly, decouples every part that needed in the platform builder. So you can choose different UI/UX, or pick up a different NLP Tagger, or select a more advanced algrithm to do NER task. They are all modulized based on unfied interfaces. 
 
 ![ ](./static/screenshots/BotSharp_arch.png  "BotSharp Architecture Chart")
 From the chart ahead we can see that based on botsharp you can launch your own chatbot platform with 3 components:
